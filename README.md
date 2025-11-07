@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Wisish Tech Logo](https://wisishtech.com/logo.png)
+![Wisish Tech Logo](https://wisishtech.com/static/media/wisishtech-logo.17db3fa5c1835ebdfd94.png)
 
 **Creating IT Services and Products for a Better World**
 
