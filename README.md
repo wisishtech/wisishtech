@@ -292,7 +292,7 @@ We're always excited to collaborate on innovative projects and help businesses t
 ### 📬 Get In Touch
 
 [![Website](https://img.shields.io/badge/🌐-Visit%20Our%20Website-blue?style=for-the-badge)](https://wisishtech.com)
-[![Email](https://img.shields.io/badge/📧-info@wisishtech.com-red?style=for-the-badge)](mailto:info@wisishtech.com)
+[![Email](https://img.shields.io/badge/📧-admin@wisishtech.com-red?style=for-the-badge)](mailto:admin@wisishtech.com)
 [![Schedule](https://img.shields.io/badge/📅-Schedule%20Consultation-green?style=for-the-badge)](https://wisishtech.com/contact)
 
 ### 🌟 Follow Our Journey
