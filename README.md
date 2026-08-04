@@ -326,7 +326,7 @@ We believe in giving back to the community. Check out our open-source contributi
 
 ### 💡 Innovation • 🎯 Excellence • 🤝 Partnership • 🔒 Security
 
-**© 2025 Wisish Tech. Pioneering the Digital Frontier.**
+**© 2026 Wisish Tech. Pioneering the Digital Frontier.**
 
 *Building tomorrow's solutions, today.*
 
